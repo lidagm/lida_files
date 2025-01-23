@@ -1,0 +1,22 @@
+Lida
+Tara
+Oliver G
+Joseph
+Bram
+Letotlo
+Ben
+Alessandro
+Layla
+Marlee
+Tao
+Sofi
+Selma
+Amelia
+Leila
+Oliver M
+Harry
+Axel
+Bayne
+Maisie
+Jolie
+Rafael/home/codespace/.python/current/bin/python /workspaces/lida_files/main.py
